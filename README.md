@@ -1,1 +1,1 @@
-# docker-php70webapp
+# php70webapp
